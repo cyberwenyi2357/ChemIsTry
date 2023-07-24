@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChemISTry</string>
+    <string name="str_intro">Propylene</string>
+    <string name="str_name">C₃H₆</string>
+</resources>
